@@ -1,0 +1,83 @@
+{
+  "general": {
+    "brand": "Blaupunkt",
+    "category": "Air Conditioner",
+    "product_id": "150217-AJA-EN",
+    "model": "BAC-PO-0015-C06D",
+    "model_name": "Arrifana 15"
+  },
+  "cooling": {
+    "power": {
+      "kW": 4.4,
+      "kBTU": 15,
+      "raw": "4.4 kW (15 kBTU)"
+    },
+    "eer": 2.62,
+    "eu_energy_efficiency_category": "A"
+  },
+  "performance": {
+    "dehumidification_l_per_24h": 80,
+    "water_reservoir_l": 4,
+    "air_circulation_m3_per_h": 450
+  },
+  "sound": {
+    "sound_pressure_level_dB": {
+      "min": 52,
+      "mid": 54,
+      "max": 56,
+      "raw": "52/54/56"
+    }
+  },
+  "control": {
+    "thermostat_range_celsius": {
+      "min": 18,
+      "max": 35,
+      "raw": "18–35"
+    }
+  },
+  "electrical": {
+    "power_supply": {
+      "voltage": "220–240 V",
+      "frequency": "50 Hz",
+      "phases": 1,
+      "raw": "220–240/50/1"
+    },
+    "power_consumption_w": 1680,
+    "operating_current_a": 7.5
+  },
+  "dimensions": {
+    "net_mm": {
+      "width": 365,
+      "height": 775,
+      "depth": 568,
+      "raw": "365 × 775 × 568"
+    },
+    "shipping_mm": {
+      "width": 445,
+      "height": 875,
+      "depth": 735,
+      "raw": "445 × 875 × 735"
+    }
+  },
+  "weight": {
+    "net_kg": 40,
+    "gross_kg": 51,
+    "raw": "40/51"
+  },
+  "connections": {
+    "outlet_pipe_diameter_mm": 150,
+    "outlet_pipe_length_mm": 1500
+  },
+  "usage": {
+    "application_area_m2": [25, 30, 35],
+    "raw": "25–30–35"
+  },
+  "identification": {
+    "ean": "5902596575687"
+  },
+  "warranty": {
+    "duration_years": 3,
+    "raw": "3 years"
+  }
+}
+

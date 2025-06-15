@@ -1,0 +1,25 @@
+Category,Parameter,Unit,Value
+General,Model,,BAC-PO-0015-C06D
+General,Brand,,Blaupunkt
+General,Category,,Air Conditioner
+General,Product ID,,150217-AJA-EN
+General,Model Name,,Arrifana 15
+Power,Cooling,kW (kBTU),4.4 (15)
+Performance,EER,,2.62
+Performance,EU energy efficiency category,,A
+Performance,Dehumidification (35RH85%),l/24h,80
+Performance,Water reservoir,l,4
+Performance,Air circulation,m³/h,450
+Sound,Sound pressure level (Min./Mid./Max.),dB(A),52/54/56
+Control,Thermostat range,°C,18–35
+Electrical,Power supply,V~/Hz/Ph,220–240/50/1
+Electrical,Power consumption,W,1680
+Electrical,Operating current,A,7.5
+Dimensions,Net dimensions (W × H × D),mm,365 × 775 × 568
+Dimensions,Shipping dimensions (W × H × D),mm,445 × 875 × 735
+Weight,Weight (Net/Gross),kg,40/51
+Connections,Outlet pipe diameter,mm,150
+Connections,Outlet pipe length,mm,1500
+Usage,Application area (approximately),m²,25–30–35
+Identification,EAN,,5902596575687
+Warranty,Warranty,,3 years

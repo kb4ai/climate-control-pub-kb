@@ -38,3 +38,28 @@
 - Cable is typically ~3.7-4cm diameter, 3m long
 - Check variant models for better documentation
 - Verify actual flexibility before buying - photos can be misleading
+
+## Health and Wellness Considerations
+
+Before purchasing, consider the health impacts of prolonged AC exposure:
+
+**6. Are you aware of potential health effects from AC usage?**
+- [ ] Yes, I understand the risks of fatigue, dehydration, and sleep disruption[^health]
+- [ ] No, I need to research this further
+- [ ] Partially aware
+
+**7. Do you plan to implement health-conscious AC usage practices?**
+- [ ] Yes, including optimal temperature settings and regular breaks[^practices]
+- [ ] No, comfort is priority
+- [ ] Need guidance on best practices
+
+**Health Resources:**
+- [Comprehensive AC Health Impact Analysis][claude-research]
+- [Practical AC Usage Health Guidelines][perplexity-research]
+- [Quick Reference Summary][tldr-summary]
+
+---
+
+[claude-research]: ./2025-Air-conditioning-s-hidden-energy-drain-on-human-alertness.Claude-Opus4.DeepResearch.md
+[perplexity-research]: ./2025-Air-conditioning-s-hidden-energy-drain-on-human-alertness.Perpleity.DeepResearch.md
+[tldr-summary]: ./2025-Air-conditioning-s-hidden-energy-drain-on-human-alertness.tldr.md

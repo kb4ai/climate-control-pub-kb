@@ -119,6 +119,6 @@ The phenomenon affects the majority of regular AC users, with **52% reporting fa
 
 ## References
 
-[claude-research]: ~/kb/hardware-kb/home-appliances-pub-kb/climate-control-pub-kb/2025-Air-conditioning-s-hidden-energy-drain-on-human-alertness.Claude-Opus4.DeepResearch.md
+[claude-research]: ./2025-Air-conditioning-s-hidden-energy-drain-on-human-alertness.Claude-Opus4.DeepResearch.md
 
-[perplexity-research]: ~/kb/hardware-kb/home-appliances-pub-kb/climate-control-pub-kb/2025-Air-conditioning-s-hidden-energy-drain-on-human-alertness.Perpleity.DeepResearch.md
+[perplexity-research]: ./2025-Air-conditioning-s-hidden-energy-drain-on-human-alertness.Perpleity.DeepResearch.md
